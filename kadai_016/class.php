@@ -23,9 +23,6 @@
  print_r($potato);
  echo '<br>';
 
- 
-
-
 //  「Animal」というクラス名を作成、プロパティを定義
  class Animal {
   private $name;
